@@ -5,10 +5,10 @@ Name of database in my local machine in MongoDB Compass : pashu
 
 How to run this?
 1) open MongoDB Compass, establish a connection with MongoDB Compass: pashu database in your local machine & open terminal in vs code in CRUD folder 
-2) cd server
+2) cd server => npm install
 3) npm start
 4) open another terminal in vs code to start client side, so that frontend will be visible
-5) cd client
+5) cd client => npm install
 6) npm run dev
 
 Mongo DB Database:
